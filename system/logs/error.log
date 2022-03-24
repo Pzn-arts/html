@@ -1,0 +1,18 @@
+[Tue, 08 Feb 2022 16:37:40 -0300] [OTS_MonstersList.php] Fatal error: Cannot load monsters.xml. File does not exist. (D:/OTSERVER/MORTEBRA 2022/OTSERV 1285/Mortebra 1285/data/monster/monsters.xml). Error: 
+[Tue, 08 Feb 2022 16:37:40 -0300] [OTS_SpellsList.php] Fatal error: Cannot load spells.xml. File does not exist. (D:/OTSERVER/MORTEBRA 2022/OTSERV 1285/Mortebra 1285/data/spells/spells.xml). Error: 
+[Sun, 27 Feb 2022 11:33:53 -0300] [OTS_MonstersList.php] Fatal error: Cannot load monsters.xml. File does not exist. (C:/Users/Vini/Desktop/OTBR/pznOT/data/monster/monsters.xml). Error: Array
+(
+    [type] => 8192
+    [message] => Return type of OTS_MonstersList::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+    [file] => C:\xampp\htdocs\system\libs\pot\OTS_MonstersList.php
+    [line] => 265
+)
+
+[Sun, 27 Feb 2022 11:33:53 -0300] [OTS_SpellsList.php] Fatal error: Cannot load spells.xml. File does not exist. (C:/Users/Vini/Desktop/OTBR/pznOT/data/spells/spells.xml). Error: Array
+(
+    [type] => 8192
+    [message] => Return type of OTS_SpellsList::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice
+    [file] => C:\xampp\htdocs\system\libs\pot\OTS_SpellsList.php
+    [line] => 327
+)
+
